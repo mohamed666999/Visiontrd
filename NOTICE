@@ -1,0 +1,11 @@
+FUGU-MAX
+Copyright (c) 2025 FUGU-MAX contributors
+
+يشمل هذا المشروع شيفرة مكتوبة من الصفر اعتمادًا على:
+- مفاهيم مالية عامة: Triple-Barrier، R-multiple، Volatility Targeting.
+- خوارزميات منشورة: Recursive Least Squares، Exponentiated Gradient (Hedge)، Page-Hinkley، Meta-Labeling.
+
+المكتبات المستخدمة: numpy، pandas، matplotlib (BSD) — requests (Apache-2.0) — pytest (MIT).
+راجع ملف LICENSE لكل مكتبة في مستودعها الأصلي.
+
+تنبيه: هذا المشروع أداة بحث وتحليل، وليس نصيحة استثمارية.
